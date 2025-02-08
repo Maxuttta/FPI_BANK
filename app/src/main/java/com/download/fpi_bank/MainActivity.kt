@@ -9,7 +9,7 @@ import android.widget.TextView
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.cardview.widget.CardView
-
+//+BBIEPgRC +BE0EQgQ+ +BD8EMAQ6BD4EQQRCBEwAIQ-
 class MainActivity : AppCompatActivity() {
 
     private var mediaPlayer: MediaPlayer? = null
